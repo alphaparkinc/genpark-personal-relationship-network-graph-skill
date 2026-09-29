@@ -1,0 +1,6 @@
+name: genpark-personal-relationship-network-graph-skill
+version: 1.0.0
+description: Personal relationship management (PRM) network graph tracking interaction cadences and relationship decay
+command: python
+args:
+  - mcp_server.py
