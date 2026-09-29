@@ -1,0 +1,20 @@
+{
+  "name": "genpark-personal-relationship-network-graph-skill",
+  "version": "1.0.0",
+  "description": "Personal relationship management (PRM) network graph tracking interaction cadences and relationship decay",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "relationship-management",
+    "personal-crm",
+    "contact-graph",
+    "interaction-history",
+    "folk",
+    "social-network",
+    "personal-agent",
+    "ambient-context",
+    "agent-skills",
+    "python-standard-library",
+    "mcp"
+  ]
+}
